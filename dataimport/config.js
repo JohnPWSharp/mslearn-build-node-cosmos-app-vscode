@@ -1,6 +1,6 @@
 //@ts-check
 var config = {
-    connectionString: "AccountEndpoint=https://cdschool.documents.azure.com:443/;AccountKey=pLeZJxu0zoaVW4UzyRX3VniHYTCwTdkQiAurfZYuQSV0tcgDwtiyJDYJbg60UCvCaRjyP9fZEbsVWPNDmuZPiA==",
+    connectionString: "YOUR CONNECTION STRING HERE",
     database: "SchoolDB",
     container: "StudentCourseGrades"
 }
